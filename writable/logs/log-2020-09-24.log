@@ -1,0 +1,140 @@
+CRITICAL - 2020-09-24 21:44:34 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:05 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:06 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:07 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:07 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:40 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:41 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:41 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:41 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:46:42 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:48:14 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:54:17 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:54:18 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}
+CRITICAL - 2020-09-24 21:54:18 --> Invalid file: hallo.php
+#0 F:\app\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hallo.php')
+#1 F:\app\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('hallo', Array, true)
+#2 F:\app\app\Controllers\Mahasiswa.php(11): view('hallo', Array)
+#3 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->greeting()
+#4 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 F:\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 F:\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\app\\public\\i...')
+#8 {main}

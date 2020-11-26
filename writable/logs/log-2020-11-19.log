@@ -1,0 +1,7 @@
+CRITICAL - 2020-11-19 03:05:46 --> Class 'App\Models\Pengguna_Model' not found
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Beranda->login()
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#5 {main}

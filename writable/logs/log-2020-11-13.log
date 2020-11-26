@@ -1,0 +1,73 @@
+CRITICAL - 2020-11-13 07:31:04 --> Class 'App\Models\Hobi_Model' not found
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(890): App\Controllers\Hobi->__construct()
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#5 {main}
+CRITICAL - 2020-11-13 07:32:54 --> Class 'App\Models\Hobi_Model' not found
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(890): App\Controllers\Hobi->__construct()
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#5 {main}
+CRITICAL - 2020-11-13 07:32:55 --> Class 'App\Models\Hobi_Model' not found
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(890): App\Controllers\Hobi->__construct()
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#5 {main}
+CRITICAL - 2020-11-13 07:37:59 --> Duplicate entry '1' for key 'PRIMARY'
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ho...')
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ho...')
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ho...')
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ho...', Array, false)
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\app\Controllers\Hobi.php(46): CodeIgniter\Model->insert(Array)
+#6 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Hobi->save()
+#7 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hobi))
+#8 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#11 {main}
+CRITICAL - 2020-11-13 07:38:15 --> Duplicate entry '1' for key 'PRIMARY'
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ho...')
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ho...')
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ho...')
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ho...', Array, false)
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\app\Controllers\Hobi.php(46): CodeIgniter\Model->insert(Array)
+#6 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Hobi->save()
+#7 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hobi))
+#8 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#11 {main}
+CRITICAL - 2020-11-13 07:39:21 --> Duplicate entry '3' for key 'PRIMARY'
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ho...')
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ho...')
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ho...')
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ho...', Array, false)
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\app\Controllers\Hobi.php(46): CodeIgniter\Model->insert(Array)
+#6 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Hobi->save()
+#7 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hobi))
+#8 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#11 {main}
+CRITICAL - 2020-11-13 07:39:56 --> Duplicate entry '3' for key 'PRIMARY'
+#0 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ag...')
+#1 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ag...')
+#2 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ag...')
+#3 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ag...', Array, false)
+#4 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\app\Controllers\Agama.php(46): CodeIgniter\Model->insert(Array)
+#6 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Agama->save()
+#7 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agama))
+#8 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 F:\DATA\Kuliah\Semester 5\Pengembangan Aplikasi Berbasis Web\CRUD CI4\app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('F:\\DATA\\Kuliah\\...')
+#11 {main}
